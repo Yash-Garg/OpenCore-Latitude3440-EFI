@@ -1,1 +1,1 @@
-# OpenCore-Latitutde3440-EFI
+# OpenCore-Latitude3440-EFI
